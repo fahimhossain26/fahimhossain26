@@ -1,6 +1,8 @@
 
 
-
+<!-- banner image starts here  -->
+<img src="./BlackBlueCreativeGameStreammerTwitchBanner-ezgif.com-video-to-gif-converter.gif" width="100%">
+<!-- banner image ends here  -->
 
 <h1 align="center">Hi 👋, I'm Ismail Hossain Fahim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
