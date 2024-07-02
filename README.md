@@ -11,15 +11,12 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [#](#)
-
-- 📝 I regularly write articles on [#](#)
 
 - 💬 Ask me about **Html ,CSS , JS, React, Tailwind ,MongoDb, firebase**
 
 - 📫 How to reach me **ismailhossainfahim64@gmail.com**
 
-- 📄 Know about my experiences [#](#)
+- 📄 Know about my experiences [#](2 years)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
